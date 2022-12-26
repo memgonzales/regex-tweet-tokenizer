@@ -6,7 +6,7 @@
 
 This project is a **general-purpose regular expression-based tokenizer for tweets**. In order to highlight the power and limitations of a purely regular expression-based approach, tokenization is performed by **pattern matching with a *single* regular expression**; conditional statements and substitutions are deliberately not utilized.
 
-All the scripts are placed inside a [Jupyter notebook](https://github.com/memgonzales/regex-tweet-tokenizer/blob/master/RegEx-Based%20Tweet%20Tokenizer.ipynb), which also includes a detailed write-up covering the:
+All the scripts are placed inside a [Jupyter notebook](https://github.com/memgonzales/regex-tweet-tokenizer/blob/master/RegEx-Based%20Tweet%20Tokenizer.ipynb), which also includes a detailed write-up covering the following:
 - Definition of a token (and the underlying rationale)
 - Design decisions in the implementation of the tokenizer
 - Walkthrough of the implementation of the tokenizer
