@@ -33,7 +33,7 @@ Library/Module |	Description |	License
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com <br/>
 
-The [dataset of tweets](https://github.com/memgonzales/regex-tweet-tokenizer/blob/master/tweets_for_pa2.csv) was scraped by Mr. Edward T. Tighe of the Department of Software Technology, De La Salle University. All the tweets in this dataset are public tweets collected via the [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
+The [dataset of tweets](https://github.com/memgonzales/regex-tweet-tokenizer/blob/master/tweets_for_pa2.csv) was scraped by Mr. Edward P. Tighe of the Department of Software Technology, De La Salle University. All the tweets in this dataset are public tweets collected via the [Twitter API](https://developer.twitter.com/en/docs/twitter-api).
 
 [badge-jupyter]: https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white
 [badge-pandas]: https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white
