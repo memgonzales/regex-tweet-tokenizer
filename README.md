@@ -28,6 +28,8 @@ Library/Module |	Description |	License
 [`regex`](https://pypi.org/project/regex/)	| Provides additional functionality over the standard [`re`](https://docs.python.org/3/library/re.html) module while maintaining backwards-compatibility	| Apache 2.0 License
 [`nltk`](https://www.nltk.org/) (For comparative analysis of resulting tokenization)	| Provides interfaces to corpora and lexical resources, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning	| Apache License 2.0
 
+*The descriptions are taken from their respective websites.*
+
 ## Author
 - <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
