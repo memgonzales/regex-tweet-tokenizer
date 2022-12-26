@@ -25,7 +25,7 @@ Library/Module |	Description |	License
 -- | -- | --
 [`pandas`](https://pandas.pydata.org/)	| Provides functions for data analysis and manipulation	| BSD 3-Clause "New" or "Revised" License
 [`csv`](https://docs.python.org/3/library/csv.html)	| Implements classes to read and write tabular data in CSV format | Python Software Foundation License
-[`regex`](https://scipy.org/)	| Provides additional functionality over the standard [`re`](https://docs.python.org/3/library/re.html) module while maintaining backwards-compatibility	| Apache 2.0 License
+[`regex`](https://pypi.org/project/regex/)	| Provides additional functionality over the standard [`re`](https://docs.python.org/3/library/re.html) module while maintaining backwards-compatibility	| Apache 2.0 License
 [`nltk`](https://www.nltk.org/) (For comparative analysis of resulting tokenization)	| Provides interfaces to corpora and lexical resources, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning	| Apache License 2.0
 
 ## Author
